@@ -32,7 +32,6 @@ img {
     font-family: 'Open Sans';
     font-weight: 700;
     font-size: 12px;
-    line-height: 14px;
     margin-top: 123px;
     margin-bottom: 14px;
     text-transform: uppercase;   
@@ -40,11 +39,7 @@ img {
 .header h2{
     font-family: 'Noto Sans Tagbanwa';
     font-size: 96px;
-    line-height: 0px;
     text-transform: uppercase;
-    width: auto;
-    height: 300px;
-    word-wrap: break-word;
 }
 .yellow{
     width: 60px;
