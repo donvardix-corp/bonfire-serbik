@@ -12,8 +12,6 @@ img {
     margin-right: auto;
     margin-left: auto;
     max-width: 1470px;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 .header{
     background-image: url("img/header.png");
@@ -40,6 +38,9 @@ img {
     font-family: 'Noto Sans Tagbanwa';
     font-size: 96px;
     text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
 }
 .yellow{
     width: 60px;
@@ -83,7 +84,6 @@ img {
     position: relative;
     margin-top: 100px;
     margin-bottom: 83px;
-    /*max-width: 1440px;*/
     padding-left: 15px;
     padding-right: 15px;
 }

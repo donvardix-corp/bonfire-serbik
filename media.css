@@ -2,28 +2,31 @@
 
 }
 @media (max-width: 1100px) {
- .header h2{   
+   .header h2{   
       font-size: 66px;
- }
- .content{
-      padding-top: 80px;
-      padding-bottom: 63px;
- }
- .square{
+   }
+   .content{
+      margin-top: 10px;
+      margin-bottom: 10px;
+   }
+   .square {
       display: none;
- }
+   }
+   .text-time{
+      left: -150px;
+   }
 }
 @media (max-width: 760px) {
    .text,
    .image{
       width: 100%;
    }
-   
- .content{
+   .content{
       display: flex;
       flex-direction: column;
-      padding-top: 50px;
-      padding-bottom: 33px;
       max-width: 100%;
- }
+   }
+   .text-time{
+      display: none;
+   }
 }
